@@ -1,5 +1,0 @@
-code pulled from this link
-
-https://rohitsardesai.wordpress.com/2015/03/09/documenting-jersey-rest-apis-with-swagger/
-
-github --> https://github.com/rohitsardesai50/spring
